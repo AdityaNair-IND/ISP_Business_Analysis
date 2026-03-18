@@ -1,6 +1,6 @@
-# Xfinity Business Analysis — Diagnostic & Descriptive Deep Dive
+# ISP Business Analysis — Diagnostic & Descriptive Deep Dive
 
-This project explores **customer churn, loyalty, billing pain points, and overage triggers** using a 300,000-row AI-generated synthetic dataset modeled on Xfinity Mobile’s service offerings.
+This project explores **customer churn, loyalty, billing pain points, and overage triggers** using a 300,000-row AI-generated synthetic dataset modeled on ISP’s service offerings.
 
 ---
 
